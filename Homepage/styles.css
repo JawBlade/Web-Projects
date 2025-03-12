@@ -1,0 +1,12 @@
+h1 {
+  outline: 2px solid black;
+  padding: 30px;
+  text-align: center;
+  margin-bottom: 0 auto;
+  color: bold black;
+}
+
+.Top-Bar {
+  display: inline;
+  outline: 2px solid black;
+}
