@@ -6,7 +6,20 @@ h1 {
   color: bold black;
 }
 
-.Top-Bar {
-  display: inline;
+.Nav-Bar {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
   outline: 2px solid black;
+}
+
+p {
+  border-radius: 25px;
+  padding: 8px;
+  outline: 2px solid black;
+}
+
+p:hover {
+  color: white;
+  background-color: black;
 }
