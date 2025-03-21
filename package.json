@@ -1,0 +1,24 @@
+{
+  "name": "web-projects",
+  "version": "1.0.0",
+  "description": "Projects I did to learn Web Development.",
+  "main": "Js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JawBlade/Web-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JawBlade/Web-Projects/issues"
+  },
+  "homepage": "https://github.com/JawBlade/Web-Projects#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.14",
+    "tailwindcss": "^4.0.14"
+  }
+}
